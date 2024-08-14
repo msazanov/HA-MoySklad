@@ -1,0 +1,20 @@
+{
+  "domain": "moysklad",
+  "name": "Moy Sklad",
+  "codeowners": [
+    "@msazanov"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/moysklad",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [
+    "aiohttp"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homeassistant": {
+    "sensor": true
+  }
+}
