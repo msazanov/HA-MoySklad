@@ -1,7 +1,6 @@
 {
   "domain": "moysklad",
   "name": "Moy Sklad",
-  "version": "0.0.1",
   "codeowners": [
     "@msazanov"
   ],
@@ -17,5 +16,6 @@
   "zeroconf": [],
   "homeassistant": {
     "sensor": true
-  }
+  },
+  "version": "0.1.1"
 }
